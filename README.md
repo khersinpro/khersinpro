@@ -8,6 +8,8 @@ I have experience working with various backend and frontend technologies, includ
 
 I also have expertise in containerization using Docker, allowing for seamless deployment and scaling of applications in diverse environments.
 
+|     <img src="./icons/Godot-Dark.svg" width="48">     |
+
 ## 📂 Projects
 
 ### [Fast API Application](#)
