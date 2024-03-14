@@ -1,6 +1,8 @@
 # Hi there! I'm Kevin 👋
 
-Welcome to my GitHub profile! I'm a backend developer with expertise in Express.js and Symfony. I'm passionate about building robust and scalable web applications.
+Welcome to my GitHub profile! I'm a backend developer with expertise in Express.js and Symfony. 
+
+I'm passionate about building robust and scalable web applications.
 
 ## :book: About Me
 
@@ -10,10 +12,10 @@ I also have expertise in containerization using Docker, allowing for seamless de
 
 ## 🛠️ Projects
 
-### [Fast API Application](#)
+### [Fast API Social Media](https://github.com/khersinpro/fast-social-media)
 This repository contains a Fast API application built with Python. It leverages Docker, Docker Compose, and SQLAlchemy for managing database operations. OAuth token-based security is implemented for authentication.
 
-### [Strategy Game Express](#)
+### [Strategy Game Express](https://github.com/khersinpro/strategy-game-express)
 Explore this repository to find an Express.js application designed for a strategy game. It features Docker, Docker Compose, and Sequelize for managing the database and migrations. The game allows users to create villages, build structures, gather resources, and engage in battles.
 
 ## 💻 Skills
@@ -26,7 +28,7 @@ Explore this repository to find an Express.js application designed for a strateg
 
 ## 📫 How to reach me:
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/your-profile/)!
+Let's connect on [LinkedIn](https://www.linkedin.com/in/kevin-hersin/)!
 
 
 <!--
