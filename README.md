@@ -10,6 +10,8 @@ I have experience working with various backend and frontend technologies, includ
 
 I also have expertise in containerization using Docker, allowing for seamless deployment and scaling of applications in diverse environments.
 
+Additionally, I'm proficient in using Elasticsearch for implementing search engines in applications.
+
 ## 🛠️ Projects
 
 ### [Fast API Social Media](https://github.com/khersinpro/fast-social-media)
@@ -23,6 +25,7 @@ Explore this repository to find an Express.js application designed for a strateg
 - **Languages:** Python, PHP, JavaScript
 - **Frameworks:** Fast Api, Symfony, Express.js
 - **Databases:** MySQL, PostgreSQL
+- **Search Engine:** Elasticsearch
 - **Project Design:** Sequence diagrams, use case diagrams, class diagrams (Visual Paradigm)
 - **Database Design:** JMerise
 - **DevOps:** Docker
