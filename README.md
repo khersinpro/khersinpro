@@ -2,13 +2,13 @@
 
 Welcome to my GitHub profile! I'm a backend developer with expertise in Express.js and Symfony. I'm passionate about building robust and scalable web applications.
 
-## :book: About Me
+## 💻 About Me
 
 I have experience working with various backend and frontend technologies, including Express.js, Symfony, and Nuxt.js. 
 
 I also have expertise in containerization using Docker, allowing for seamless deployment and scaling of applications in diverse environments.
 
-## 💻 Projects
+## 📂 Projects
 
 ### [Fast API Application](#)
 This repository contains a Fast API application built with Python. It leverages Docker, Docker Compose, and SQLAlchemy for managing database operations. OAuth token-based security is implemented for authentication.
@@ -16,7 +16,7 @@ This repository contains a Fast API application built with Python. It leverages 
 ### [Strategy Game Express](#)
 Explore this repository to find an Express.js application designed for a strategy game. It features Docker, Docker Compose, and Sequelize for managing the database and migrations. The game allows users to create villages, build structures, gather resources, and engage in battles.
 
-## Skills
+## :book: Skills
 
 - **Languages:** Python, PHP, JavaScript
 - **Frameworks:** Symfony, Express.js
