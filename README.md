@@ -21,10 +21,11 @@ Explore this repository to find an Express.js application designed for a strateg
 ## 💻 Skills
 
 - **Languages:** Python, PHP, JavaScript
-- **Frameworks:** Symfony, Express.js
+- **Frameworks:** Fast Api, Symfony, Express.js
 - **Databases:** MySQL, PostgreSQL
 - **Project Design:** Sequence diagrams, use case diagrams, class diagrams (Visual Paradigm)
 - **Database Design:** JMerise
+- **DevOps:** Docker
 
 ## 📫 How to reach me:
 
