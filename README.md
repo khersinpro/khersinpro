@@ -15,7 +15,13 @@ I also have expertise in containerization using Docker, allowing for seamless de
 ### [Fast API Social Media](https://github.com/khersinpro/fast-social-media)
 This repository contains a Fast API application built with Python. It leverages Docker, Docker Compose, and SQLAlchemy for managing database operations. OAuth token-based security is implemented for authentication.
 
-### [Strategy Game Express](https://github.com/khersinpro/strategy-game-express)
+### [Express.js War Strategy Game](https://github.com/khersinpro/strategy-game-express) (Work in progress)
+Explore this repository to find an Express.js application designed for a strategy game. It features Docker, Docker Compose, and Sequelize for managing the database and migrations. The game allows users to create villages, build structures, gather resources, and engage in battles.
+
+### [Symfony Real Estate Agency](https://github.com/khersinpro/agence_immo_SF6)
+Explore this repository to find an Express.js application designed for a strategy game. It features Docker, Docker Compose, and Sequelize for managing the database and migrations. The game allows users to create villages, build structures, gather resources, and engage in battles.
+
+### [Express.js Twitter Clone](https://github.com/khersinpro/twitter-public-code)
 Explore this repository to find an Express.js application designed for a strategy game. It features Docker, Docker Compose, and Sequelize for managing the database and migrations. The game allows users to create villages, build structures, gather resources, and engage in battles.
 
 ## 💻 Skills
