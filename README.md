@@ -1,14 +1,14 @@
-# Hello! 👋
+# Hi there! I'm Kevin 👋
 
 Welcome to my GitHub profile! I'm a backend developer with expertise in Express.js and Symfony. I'm passionate about building robust and scalable web applications.
 
-## About Me
+## :book: About Me
 
 I have experience working with various backend and frontend technologies, including Express.js, Symfony, and Nuxt.js. 
 
 I also have expertise in containerization using Docker, allowing for seamless deployment and scaling of applications in diverse environments.
 
-## Projects
+## 💻 Projects
 
 ### [Fast API Application](#)
 This repository contains a Fast API application built with Python. It leverages Docker, Docker Compose, and SQLAlchemy for managing database operations. OAuth token-based security is implemented for authentication.
@@ -24,11 +24,10 @@ Explore this repository to find an Express.js application designed for a strateg
 - **Project Design:** Sequence diagrams, use case diagrams, class diagrams (Visual Paradigm)
 - **Database Design:** JMerise
 
-## Contact
+##  📫 How to reach me:
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/your-profile/)!
+Let's connect on [LinkedIn](https://www.linkedin.com/in/your-profile/)! <img src="./icons/VisualStudio-Dark.svg" width="48"> 
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration opportunities! 😊
 
 <!--
 **khersinpro/khersinpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
