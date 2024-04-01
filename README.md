@@ -15,6 +15,7 @@ Additionally, I'm proficient in using Elasticsearch for implementing search engi
 ## 🛠️ Projects
 
 ### [Next.js backoffice of War Strategy Game](https://github.com/khersinpro/strategy-game-backoffice) (Work in progress)
+This Next.js repository, currently under construction, will facilitate comprehensive management of users, buildings, units, unit types, and resources for my strategic game.
 
 ### [Express.js backend of War Strategy Game](https://github.com/khersinpro/strategy-game-express) (Work in progress)
 Explore this repository to find an Express.js application designed for a strategy game. It features Docker, Docker Compose, and Sequelize for managing the database and migrations. The game allows users to create villages, build structures, gather resources, and engage in battles.
