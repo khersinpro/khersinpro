@@ -1,4 +1,4 @@
-# Hi there! I'm Kevin 👋 
+# Hi there! I'm Kevin 👋  
 
 Welcome to my GitHub profile! I'm a backend developer with expertise in Express.js and Symfony. 
 
