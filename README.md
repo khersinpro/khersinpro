@@ -14,7 +14,10 @@ Additionally, I'm proficient in using Elasticsearch for implementing search engi
 
 ## 🛠️ Projects
 
-### [Next.js backoffice of War Strategy Game](https://github.com/khersinpro/strategy-game-backoffice) (Work in progress)
+## [PHP-Symfony 7 RESTful API for Enterprise Scheduling System](https://github.com/khersinpro/calendar-project-backend) (Work in progress)
+This repository showcases a PHP-Symfony 7 RESTful API designed to manage a SaaS enterprise scheduling system. The API provides robust functionalities for handling reservations and scheduling. Currently under construction, it implements OAuth authentication and allows multiple businesses to sign up and manage their employee schedules. Once completed, it will enable clients to book appointments directly and even make payments via Stripe Connect.
+
+### [Next.js backoffice of War Strategy Game](https://github.com/khersinpro/strategy-game-backoffice) 
 This Next.js repository, currently under construction, will facilitate comprehensive management of users, buildings, units, unit types, and resources for my strategic game.
 
 ### [Express.js backend of War Strategy Game](https://github.com/khersinpro/strategy-game-express) (Work in progress)
