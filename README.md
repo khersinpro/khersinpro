@@ -28,8 +28,8 @@ This repository contains a Fast API application built with Python. It leverages 
 
 ## 💻 Skills
 
-- **Languages:** Python, PHP, JavaScript
-- **Frameworks:** Fast Api, Symfony, Express.js
+- **Languages:** PHP, JavaScript/Typescript
+- **Frameworks:** Symfony, Nodejs-Express.js, Vue.js
 - **Databases:** MySQL, PostgreSQL
 - **Search Engine:** Elasticsearch
 - **Project Design:** Sequence diagrams, use case diagrams, class diagrams (Visual Paradigm)
