@@ -2,7 +2,7 @@
  
 Welcome to my GitHub profile! I'm a backend developer with expertise in Express.js and Symfony.  
  
-I'm passionate about building robust and scalable web applications.
+I'm passionate about building robust and scalable web applications. 
 
 ## :book: About Me
 
