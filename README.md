@@ -24,7 +24,7 @@ Developed using Node.js, Vue.js, TypeScript, Redis, BullMQ, and PostgreSQL, Quê
 
 Command your armies, build your empire, and lead your civilization to victory in this dynamic and evolving world
 
-### [Express.js, Typescript, Google auth, Lemon Squeezy payment boilerplate](https://github.com/khersinpro/fast-social-media](https://github.com/khersinpro/node-passport-lemon-squeezy)
+### [Express.js, Typescript, Google auth, Lemon Squeezy payment boilerplate](https://github.com/khersinpro/node-passport-lemon-squeezy)
 This boilerplate provides a solid foundation for building web applications using Express.js with TypeScript, featuring user authentication through Passport.js with Google OAuth, and integrated payment processing via Lemon Squeezy. 
 
 ### [Fast API Social Media](https://github.com/khersinpro/fast-social-media)
