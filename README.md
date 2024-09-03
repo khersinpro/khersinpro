@@ -44,6 +44,8 @@ This repository contains a Fast API application built with Python. It leverages 
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/kevin-hersin/)!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khersinpro&label=Profile%20views&color=0e75b6&style=flat" alt="khersinpro" /> </p>
+
 
 <!--
 **khersinpro/khersinpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
